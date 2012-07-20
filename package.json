@@ -1,0 +1,23 @@
+{
+  "author": "Eric Clifford <ericgclifford@gmail.com> (http://www.ericclifford.com)",
+  "name": "Towelie",
+  "description": "Project boilerplate",
+  "version": "1.0.1",
+  "homepage": "http://github.com/eclifford/towelie",
+  "repository": {
+    "url": "http://github.com/eclifford/towelie"
+  },
+  "scripts": {
+    "test": "cake test"
+  },
+  "dependencies": {
+    "serve": "~1.1.0",
+    "buster": "~0.6.2",
+    "codo": "~0.9.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

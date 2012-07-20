@@ -1,0 +1,9 @@
+.DS_STORE
+node_modules
+build/**
+apps/js/**
+test/spec/js/**
+.project
+.settings
+.pmd
+npm-debug.log
