@@ -1,4 +1,4 @@
-![Towelie](http://roundedoff.com/wp-content/uploads/2011/04/towelie.jpg)
+<img src='http://roundedoff.com/wp-content/uploads/2011/04/towelie.jpg' width='300'/>
 
 # Towelie Framework
 
@@ -7,13 +7,6 @@ Towelie is a [CoffeeScript](http://coffeescript.org/) centric architecture for b
 ## Table of Contents
 
 ## Highlights
-* Integrated with [Middleman](http://middlemanapp.com/guides/coffeescript-sprockets/)(not really a dependency)
-* Build with [Backbone](http://http://documentcloud.github.com/backbone/)Backbone & [Underscore](http://http://documentcloud.github.com/underscore/)
-* Integrated AMD with [RequireJS](http://requirejs.org/)
-* Support for JIT inclusion of Underscore Templates
-* Rough in's for a Fascade and Mediator pattern for for inter module communciation as discussed [Addy Osmani](http://http://addyosmani.com/largescalejavascript/) and [Nicholas Zakas](http://http://www.youtube.com/watch?v=vXjVFPosQHw)
-* CLI and Browser BDD testing with [Mocha](http://http://visionmedia.github.com/mocha/) 
-* CLI and Browser compatible [Chai](http://http://chaijs.com/) assertion library
 * Spies, Stubs and Mocks with shimmed [Sinon](http://sinonjs.org/)
 * Rough in support for [Codo](https://github.com/netzpirat/codo) code documentation
 
