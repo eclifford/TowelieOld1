@@ -1,6 +1,10 @@
-# Towelie JS Architecture
+![Towelie](http://roundedoff.com/wp-content/uploads/2011/04/towelie.jpg)
+
+# Towelie Framework
 
 Towelie is a [CoffeeScript](http://coffeescript.org/) centric architecture for building large, performant, testable front end applications.
+
+## Table of Contents
 
 ## Highlights
 * Integrated with [Middleman](http://middlemanapp.com/guides/coffeescript-sprockets/)(not really a dependency)
@@ -50,12 +54,8 @@ define ["underscore", "backbone"], (_, Backbone)->
   Contact
 ```
 
-## Running CLI tests
-  mocha [options]
-
 ## Authors
 Eric Clifford
-Curtis Steckel
 
 ## License 
 (The MIT License)
